@@ -1,7 +1,6 @@
 {
   "name": "playcanvastest",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "gulp": "^4.0.2",
@@ -23,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/uniras/PlayCanvasTest/issues"
   },
-  "homepage": "https://github.com/uniras/PlayCanvasTest#readme"
+  "homepage": "https://github.com/uniras/PlayCanvasTest#readme",
+  "description": ""
 }

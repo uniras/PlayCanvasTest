@@ -1,5 +1,6 @@
 import 'playcanvas';   //PlayCanvasライブラリ
 
+
 //クラスベースの場合はpc.ScriptTypeを継承する。
 class Follow extends pc.ScriptType {
 
